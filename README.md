@@ -10,7 +10,7 @@ I have been a software engineer for over 20 years, and I love all things related
 
 I am currently working on a few things
 
-- [ ]  Tinkerign with my profile, adding some more cool stuff like the Spotify widget above.
+- [ ] Tinkering with my profile, adding some more cool stuff like the Spotify widget above.
 
 - [ ] Consolidating all of the Minecraft forks on my profile into an Organization I created.
 
